@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.kallyas.net	TRUE	/	FALSE	1999999999	__cfduid	d5bcaaf35b5a013df03e70ae2095784531486878433
+.google.com	TRUE	/	FALSE	1999999999	NID	96=mfq93n6-JJnbXsBocjocIZbg1GFv5XOiWVCrqYkG8GTjrVEQDU4QfC7TdhBlVXnCBjVm_xsdj26IZagwEpfiYbo44v-DoKxqpDT_Ds2QiBV7gAqGJhQBkSYaZPTTQ13N
+125.209.199.43	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
